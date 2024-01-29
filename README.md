@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning website and mobile development<br>📫 How to reach me **linkedin.com/in/brianvikonura/**
+🌱 I’m currently learning website and mobile development<br>📫 How to reach me **https://linkedin.com/in/brianvikonura/**
 
 
 ## 🌐 Socials:
